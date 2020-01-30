@@ -17,3 +17,6 @@ Click [HERE](https://introcs.cs.princeton.edu/java/10elements/) to get see Princ
 Click [HERE](https://codingbat.com/java) to see another useful resource to solve problems. The questions here are very simple and provided with test cases so that you can solve them online. This problems will be used mostly on our lab lessons.
 
 Remember! There is no other way to learn programming other than practicing solving problems. That's why solve at least 3 problems a day. Do not be limited only with our weekly contests. Do it using above provided resources. You may find a lot of resources in the Internet as well.
+
+### Contests
+Contest 1: www.hackerrank.com/contest-1-1580277738
