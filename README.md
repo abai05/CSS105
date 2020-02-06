@@ -28,7 +28,7 @@ Final: 40 (70% practice, 30% theory)
 
 
 ### Contests
-Contest 1: www.hackerrank.com/contest-1-1580277738
+Contest 1: www.hackerrank.com/contest-1-1580277738 \
 Contest 2: www.hackerrank.com/css105-contest2
 
 ### Attendance rules
