@@ -30,7 +30,8 @@ Final: 40 (70% practice, 30% theory)
 ### Contests
 Contest 1: www.hackerrank.com/contest-1-1580277738 \
 Contest 2: www.hackerrank.com/css105-contest2 \
-Contest 3: www.hackerrank.com/css105-contest3
+Contest 3: www.hackerrank.com/css105-contest3 \
+Contest 4: www.hackerrank.com/css105-contest4
 
 ### Attendance rules
 Attenced is checked once (can be more) in the very beginning of the lecture/class. If you are late then you will be counted as 'absent' for this first hour of lecture/classes. What you need to do is to come on break time and ask to register your attendance for second hour of lecture/class. Pay attention to this rule carefully and do not be "surprised" if you get 20% of "absents" some day.
