@@ -1,3 +1,6 @@
+# Important Annoucnement!
+Due to the fact that starting from the March 16 SDU will move to online learning the midterm will be on March 14 (Saturday) at 7.30 in the morning at F201 and F202. You need to bring your laptops charged and have an internet connection. 
+
 # CSS105
 Hello everyone!
 
