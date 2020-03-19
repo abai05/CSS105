@@ -22,11 +22,10 @@ Click [HERE](https://codingbat.com/java) to see another useful resource to solve
 Remember! There is no other way to learn programming other than practicing solving problems. That's why solve at least 3 problems a day. Do not be limited only with our weekly contests. Do it using above provided resources. You may find a lot of resources in the Internet as well.
 
 ### Grade Policy
-Contests: 10 (1 for each if >= 50%)\
+Contests: 15 (1 for each if >= 50%)\
 Codingbat: 5 (if >= 90%)\
 Attendance: 10\
-Quizzes: 10\
-Mid: 25 \
+Mid: 30 \
 Final: 40
 
 
