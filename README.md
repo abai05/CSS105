@@ -26,8 +26,8 @@ Contests: 10 (1 for each if >= 50%)\
 Codingbat: 5 (if >= 90%)\
 Attendance: 10\
 Quizzes: 10\
-Mid: 25 (70% practice, 30% theory)\
-Final: 40 (70% practice, 30% theory)
+Mid: 25 \
+Final: 40
 
 
 ### Contests
